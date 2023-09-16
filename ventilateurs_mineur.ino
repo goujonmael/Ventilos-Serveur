@@ -1,4 +1,4 @@
-float RT = 50000;// the rated potentiometer value 10k
+float RT = 50000;// the rated potentiometer value
 float R;// the unknown resistance value R
 
 const byte OC1A_PIN = 9;
